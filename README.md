@@ -1,3 +1,2 @@
-# Su & Partners Website
-
-Deploy-ready Next.js site for Vercel.
+# JavaScript Version - Su & Partners Site
+This version avoids TypeScript issues.
